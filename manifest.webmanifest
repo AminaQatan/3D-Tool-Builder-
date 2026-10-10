@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "3D Tool Builder Dictionary",
+  "short_name": "3D Tool Dictionary",
+  "description": "Assemble tools and machines, see their functions, hear representative sounds and British pronunciation, and build workshops in 3D.",
+  "lang": "en-GB",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eef5ff",
+  "theme_color": "#2b2968",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
