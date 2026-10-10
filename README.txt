@@ -1,4 +1,5 @@
 3D TOOL BUILDER DICTIONARY
+Created by: Ms. Amina Qatan
 
 Open index.html or publish all the files with GitHub Pages.
 

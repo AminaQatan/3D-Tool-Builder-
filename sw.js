@@ -1,7 +1,7 @@
 'use strict';
 // Keep this app's cache separate from other repositories on the same GitHub account.
 const PREFIX='workshop-builder:'+self.registration.scope+':';
-const CACHE=PREFIX+'v7-touch-curriculum';
+const CACHE=PREFIX+'v8-amina-credit';
 const ASSETS=['./','./index.html','./manifest.webmanifest','./pwa.js','./icons.js','./icon-192.png','./icon-512.png','./apple-touch-icon.png'];
 const BASE=new URL(self.registration.scope);
 self.addEventListener('install',event=>{
